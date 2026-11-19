@@ -5,3 +5,4 @@
 convert8bithex
 lib/
 backup/
+!bin/win64/convert8bithex.exe

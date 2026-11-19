@@ -5,6 +5,10 @@ Converts between BIN, PRG, hex, Intel hex, MOS papertape, TIM papertape,
 Motorola S-record, Apple 1 hex and KIM-1 tape files, and can write assembler
 define-byte source.
 
+## Download
+
+A ready-made 64-bit Windows program is in [`bin/win64/convert8bithex.exe`](bin/win64/convert8bithex.exe).
+
 ## Build
 
     fpc -O2 convert8bithex.lpr
